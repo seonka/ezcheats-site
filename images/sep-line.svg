@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="4" viewBox="0 0 10">                     
+<defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 2px;
+        stroke-dasharray: 0.001 12;
+        fill-rule: evenodd;
+        opacity: 0.09;
+      }
+    </style>
+  </defs>
+  <path vector-effect="non-scaling-stroke" class="cls-1" d="M323,221h19" transform="translate(-321 -220)"/>
+</svg>
